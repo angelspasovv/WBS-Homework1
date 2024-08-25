@@ -1,0 +1,46 @@
+[
+    {
+        "brand": "Apple",
+        "model": "iPhone 14 Pro Max",
+        "color": "Space Black",
+        "releaseYear": 2022,
+        "storageOptions": [
+            128,
+            256,
+            512
+        ]
+    },
+    {
+        "brand": "Apple",
+        "model": "iPhone 13 Mini",
+        "color": "Starlight",
+        "releaseYear": 2021,
+        "storageOptions": [
+            64,
+            128,
+            256
+        ]
+    },
+    {
+        "brand": "Apple",
+        "model": "iPhone 12",
+        "color": "Blue",
+        "releaseYear": 2020,
+        "storageOptions": [
+            64,
+            128,
+            256
+        ]
+    },
+    {
+        "brand": "Apple",
+        "model": "iPhone 11",
+        "color": "Purple",
+        "releaseYear": 2019,
+        "storageOptions": [
+            64,
+            128,
+            256
+        ]
+    }
+]

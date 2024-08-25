@@ -1,0 +1,46 @@
+[
+    {
+        "brand": "Tom Ford",
+        "model": "Black Orchid",
+        "fragranceType": "Eau de Parfum",
+        "releaseYear": 2006,
+        "sizeOptions": [
+            30,
+            50,
+            100
+        ]
+    },
+    {
+        "brand": "Versace",
+        "model": "Eros",
+        "fragranceType": "Eau de Toilette",
+        "releaseYear": 2012,
+        "sizeOptions": [
+            50,
+            100,
+            200
+        ]
+    },
+    {
+        "brand": "Dior",
+        "model": "Sauvage",
+        "fragranceType": "Eau de Toilette",
+        "releaseYear": 2015,
+        "sizeOptions": [
+            60,
+            100,
+            200
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "model": "No. 5",
+        "fragranceType": "Eau de Parfum",
+        "releaseYear": 1921,
+        "sizeOptions": [
+            50,
+            100,
+            200
+        ]
+    }
+]

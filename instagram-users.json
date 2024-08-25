@@ -1,0 +1,26 @@
+[
+    {
+        "username": "kanyewest",
+        "fullName": "Kanye West",
+        "followers": 35000000,
+        "following": 12
+    },
+    {
+        "username": "theweeknd",
+        "fullName": "The Weeknd",
+        "followers": 40000000,
+        "following": 25
+    },
+    {
+        "username": "billieeilish",
+        "fullName": "Billie Eilish",
+        "followers": 11900000,
+        "following": 0
+    },
+    {
+        "username": "coldplay",
+        "fullName": "Coldplay",
+        "followers": 25000000,
+        "following": 75
+    }
+]

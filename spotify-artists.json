@@ -1,0 +1,26 @@
+[
+    {
+        "username": "drake",
+        "fullName": "Drake",
+        "followers": 83200000,
+        "monthlyListeners": 55600000
+    },
+    {
+        "username": "badbunnypr",
+        "fullName": "Bad Bunny",
+        "followers": 51900000,
+        "monthlyListeners": 31700000
+    },
+    {
+        "username": "theweeknd",
+        "fullName": "The Weeknd",
+        "followers": 44500000,
+        "monthlyListeners": 37400000
+    },
+    {
+        "username": "edsheeran",
+        "fullName": "Ed Sheeran",
+        "followers": 92100000,
+        "monthlyListeners": 60300000
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "brand": "Nike",
+        "model": "Air Jordan 1 Retro High OG",
+        "color": "Black/White-Varsity Red",
+        "releaseYear": 2023,
+        "sizesAvaible": [
+            41,
+            42,
+            43
+        ]
+    },
+    {
+        "brand": "Nike",
+        "model": "Dunk Low",
+        "color": "University Blue/White",
+        "releaseYear": 2023,
+        "sizesAvailable": [
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "brand": "Nike",
+        "model": "Dunk High SP",
+        "color": "Varsity Purple/White",
+        "releaseYear": 2020,
+        "sizesAvailable": [
+            43,
+            44,
+            45
+        ]
+    },
+    {
+        "brand": "Just Cavalli",
+        "model": "High Top Sneakers",
+        "color": "Black/Gold",
+        "releaseYear": 2021,
+        "sizesAvailable": [
+            38,
+            45,
+            46
+        ]
+    }
+]
